@@ -50,4 +50,4 @@ Y con eso tenemos nuestra aplicación montada :)
 
 Un ejemplo de la aplicación:
 
-<src img="https://dl.dropboxusercontent.com/u/14147051/Calculadora.png">
+<img src="https://dl.dropboxusercontent.com/u/14147051/Calculadora.png">
