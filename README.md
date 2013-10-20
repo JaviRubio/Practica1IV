@@ -25,3 +25,16 @@ Para desplegar nuestra aplicación lo primero que hacemos es crear una aplicaci�
 <img src="https://dl.dropboxusercontent.com/u/14147051/CreateOpenShift.png">
 
 <img src="https://dl.dropboxusercontent.com/u/14147051/CrearOpen.png">
+
+Luego introducimos el nombre que queremos darle a la aplicación
+
+<img src="https://dl.dropboxusercontent.com/u/14147051/openpaso2.png">
+
+Y por ultimo pulsamos al final el boton de crear.
+
+Una vez que los tenemos creado ya solo nos queda descargar el repositio GIT a nuestro entorno de trabajo.
+
+El propio openshift nos proporciona los comandos en cuestión, en este caso seria
+
+<pre>git clone ssh://52642fae50044636fd000457@practicaiv1-javirubioapps.rhcloud.com/~/git/practicaiv1.git/
+cd practicaiv1/</pre>
