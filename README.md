@@ -1,6 +1,6 @@
 Practica 1 de Infraestructuras virtuales
 
-Por Javier Rubio Giménez
+==Por Javier Rubio Giménez==
 
 Elección de plataforma:
 
