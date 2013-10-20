@@ -42,7 +42,7 @@ cd practicaiv1/</pre>
 Y una vez tenemos los archivos en local, ya solo nos queda hacer los cambios oportunos. OpenShift tambien nos
 provee de los comandos oportunos:
 
-<pre> git add .
+<pre>git add .
 git commit -m 'My changes'
 git push</pre>
 
