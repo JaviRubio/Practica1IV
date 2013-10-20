@@ -38,3 +38,12 @@ El propio openshift nos proporciona los comandos en cuestión, en este caso seri
 
 <pre>git clone ssh://52642fae50044636fd000457@practicaiv1-javirubioapps.rhcloud.com/~/git/practicaiv1.git/
 cd practicaiv1/</pre>
+
+Y una vez tenemos los archivos en local, ya solo nos queda hacer los cambios oportunos. OpenShift tambien nos
+provee de los comandos oportunos:
+
+<pre> git add .
+git commit -m 'My changes'
+git push</pre>
+
+Y con eso tenemos nuestra aplicación montada :)
