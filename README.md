@@ -22,4 +22,4 @@ Por lo expuesto anterior nos hemos decantado por OpenShift para alojar nuestra a
 
 Para desplegar nuestra aplicación lo primero que hacemos es crear una aplicación en OpenShift vacia:
 
-<img src="https://www.dropbox.com/s/q6tf3rr7kh0u78x/CreateOpenShift.png">
+<img src="https://dl.dropboxusercontent.com/u/14147051/CreateOpenShift.png">
